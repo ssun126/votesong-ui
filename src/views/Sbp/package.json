@@ -1,0 +1,6 @@
+{
+  "name": "Sbp",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Sbp.js"
+}
